@@ -20,7 +20,7 @@ function greet(name) {
   You should be able to call this function with no arguments and see its output in the terminal:
   greetWithDefault();
   => "Hello, programmer!"
-  
+
   You should also be able to call this function with one argument and see its output in the terminal:
   greetWithDefault("Sunny");
   => "Hello, Sunny!"
